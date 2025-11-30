@@ -124,7 +124,11 @@ python .\selection_sort_visual_cli.py .\test_data_100_1.txt
 
 Example Output:
 <p align="center">
-	<em>(Add an illustrative figure here if desired)</em>
+  <img src="selection_sort.png" alt="Selection Sort Visualization" width="999">
+</p>
+
+<p align="center">
+  <em>Visualization of 50 elements sorting</em>
 </p>
 
 Legend (colors):
